@@ -2,7 +2,7 @@
 
 Calculator I made around year 2020 using the Flutter. That calculates 'Greatest common divisor', 'Least Common Multiple', 'Sum' and 'Multiple'.
 
-[picture](https://github.com/kristaps-m/FlutterCalculator/screen_shots/calc1.png)
+[picture](https://github.com/kristaps-m/FlutterCalculator/blob/main/screen_shots/calc1.png)
 
 ## Getting Started
 
